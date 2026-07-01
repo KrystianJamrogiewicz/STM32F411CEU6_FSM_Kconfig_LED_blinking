@@ -38,9 +38,9 @@ Pobiera oprogramowanie OpenOCD służące jako most między komputerem a program
 
 ---
 
-## 🚀 Ręczna kompilacja i wgrywanie kodu (krok po kroku)
+## 🚀 Ręczna kompilacja i wgrywanie kodu
 
-Komendy do skompilowania i wgrania kodu C na mikrokontroler, tak robi to pod spodem plik Makefile.
+Komendy do skompilowania i wgrania kodu C na mikrokontroler (tak robi to pod spodem plik Makefile).
 
 ### 1. Kompilacja plików źródłowych (.c i .s) do "półproduktów" (.o)
 ```bash
